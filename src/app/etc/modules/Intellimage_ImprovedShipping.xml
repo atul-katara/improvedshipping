@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Intellimage_ImprovedShipping>
+            <active>true</active>
+            <codePool>community</codePool>
+         </Intellimage_ImprovedShipping>
+    </modules>
+</config>
